@@ -1,4 +1,4 @@
-TABLE OF CONTENTS
+TABLE OF CONTENTS!
 
 -   ABOUT
 -   USING THE LEVEL EDITOR
@@ -247,5 +247,6 @@ editor's drop-down menu for miscellaneous graphics.
 CONTACT ME
 
 	My email is stewartmatthew6@gmail.com.
+
 
 
