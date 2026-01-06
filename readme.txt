@@ -1,5 +1,5 @@
 TABLE OF CONTENTS
-g
+
 -   ABOUT
 -   USING THE LEVEL EDITOR
 -   EDITING WARPS
@@ -247,6 +247,7 @@ editor's drop-down menu for miscellaneous graphics.
 CONTACT ME
 
 	My email is stewartmatthew6@gmail.com.
+
 
 
 
